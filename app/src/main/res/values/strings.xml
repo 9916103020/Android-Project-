@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Automatic SIlent/Vibrate</string>
+    <string name="app_name">Automatic Silent/Vibrate</string>
+    <string name="Title">Welcome To Silent          Mode</string>
+    <string name="button1">LogIn</string>
+    <string name="button2">SignUp</string>
 </resources>
